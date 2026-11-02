@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /archive/
+Disallow: /docs/
+Disallow: /research/
+Disallow: /404.html
+
+Sitemap: https://ohpiis-creative-agency.netlify.app/sitemap.xml
